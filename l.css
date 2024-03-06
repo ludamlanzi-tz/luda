@@ -1,0 +1,50 @@
+body{
+    background-color: whitesmoke;
+    margin-top: 15pc;
+    border-bottom: 20pc;
+}
+ .COM input{
+    width: 15pc;
+    height: 20PX;
+    border-style: groove;
+   
+}
+.COM{
+    background-color:aqua;
+    border-bottom-right-radius: 10pc;
+    width: 25pc;
+    height: 25pc;
+    text-align: center;
+    margin-left: 30pc;
+    border-top: 20px;
+    margin-top: -50px;
+
+
+}
+span{
+    box-sizing: 25pc;
+    background-color:gray;
+
+}
+span:hover{
+    background-color: brown;
+   
+    
+    
+}
+{
+    margin-top: 10pc;
+   
+    
+    
+}
+.lud textarea{
+    padding:30pX;
+    width: 13pc;
+
+    
+}
+.lud h1{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color:goldenrod;
+}
